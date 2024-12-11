@@ -1,3 +1,7 @@
-$red-deg: #d93933 !default;
+@import "./color_schemes/dark";
 
-$link-color: $red-deg;
+$color-scheme: dark !default;
+
+$linkcol: #A600FF !default;
+
+$link-color: $linkcol;
