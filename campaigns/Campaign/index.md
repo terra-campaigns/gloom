@@ -4,6 +4,7 @@ title: Campaign
 has_children: true
 nav_order: 5
 has_toc: FALSE
+nav_exclude: true
 
 footer_content: 
 

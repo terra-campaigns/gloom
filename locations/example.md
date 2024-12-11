@@ -3,8 +3,6 @@ layout: default
 title: Example
 parent: Locations
 
-nav_exclude: true
-
 bullets:
   - ...
 

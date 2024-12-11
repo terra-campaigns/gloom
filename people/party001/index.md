@@ -3,6 +3,7 @@ layout: default
 title: party001
 parent: People
 has_children: true
+nav_exclude: true
 
 ---
 
