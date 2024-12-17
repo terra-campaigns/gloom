@@ -9,11 +9,11 @@ statblock: false
 image: 
 
 gear:
-  - something?
+  - short sword
+  - torches
+  - Petal (horse) - saddle, blanket, short rope
 
 ---
-
-### Templar knight
 
 - Tall and thin, rugged long face, sunburnt skin, black hair.
 
@@ -23,13 +23,14 @@ gear:
 - The rituals performed daily dulls the minds of the knights - putting them in the hands of horrific leaders
 - Have been tormenting the lives of peasants for years now
 
-### Poorly executed rituals
+### Crossroads
 
-- Inadvertently loses the trance from the rituals, which goes unnoticed first
+- While flaying a mother, sees himself in her children - was he recruited like this by the Order
 - Realisation of the terrible acts of the Templars
 - Internal torment starts
 
-### Crossroads
+### Desertor
 
-- Decides to desert, but needs to find appropriate moment.
-
+- Flees and mounts on a horse, Petal
+- Rides into a misty swamp, and loses his Order leaders 
+- Rides into the small city of ...
